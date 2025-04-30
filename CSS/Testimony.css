@@ -1,5 +1,5 @@
 body{
-    background: rgb(249, 242, 228);
+    background: pink;
     margin: 0;
 }
 
@@ -7,14 +7,14 @@ body{
     margin: 1px;
     display: flex;
     justify-content: flex-end;
-    background-color: bisque;
+    background-color: rgb(143, 188, 227);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #LogoBox{
     width: 100%; 
     padding: 20px;
-    background-color: bisque; 
+    background-color: rgb(182, 198, 243); 
     box-sizing: border-box;
     margin: 0px;
     padding-bottom: -10px;
